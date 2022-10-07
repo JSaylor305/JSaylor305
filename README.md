@@ -10,7 +10,8 @@
 - 4th Back-office Automation - IGA Robotics https://zodiac-bdc.com/iga-platform/
 - 5th Network Segmentation - WIP NETWORK limits itrusions to a confined area, which are controlled, and sanitized
 - 6th the last line of defense - WIP ENCRYPTION around what assets you are trying to protect
-- 7th Monitoring - 360 degree monitoring of all IoT, assets, API interconnections, and all communication channels (news, alerts, predictive) 
+- 7th Monitoring - WIP MONITOR - 360 degree monitoring of all IoT, assets, API interconnections, and all communication channels (news, alerts, predictive)
+- 8th Communications - Cognative Chat-Bot to GRASP, ACCESS, and ADAPT 
 <!---
 JSaylor305/JSaylor305 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
